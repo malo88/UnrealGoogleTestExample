@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{691AB7D3-4C31-A3CE-A737-F981FB7C28CA}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "UE4WithGoogle",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
